@@ -7,7 +7,8 @@ This is a web crawler written entirely in python. It crawls an entire website an
 
 ## Running the program
 1.Input the name of project(name of directory to store the crawled.txt and queue.txt) in main.py
-2.
+2.Run the program by typing the following in command line(windows)
+
 ```
 python main.py
 ```
